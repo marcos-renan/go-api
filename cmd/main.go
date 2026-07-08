@@ -15,5 +15,5 @@ func main() {
 		})
 	})
 
-	router.Run() //escuta por padrão na porta 8080
+	router.Run(":8000") //escuta por padrão na porta 8080
 }
