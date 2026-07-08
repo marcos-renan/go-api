@@ -1,4 +1,4 @@
-module marcos.com
+module go-api
 
 go 1.26.2
 
